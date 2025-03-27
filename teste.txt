@@ -1,1 +1,2 @@
 Criando meu primeiro repo usando os comandos de git 
+aprendendo sobre status
